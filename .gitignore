@@ -2,6 +2,10 @@ __pycache__/
 *.pyc
 .venv/
 .env
+build/
+build-*/
 output/
 data/
 *.log
+*.exe
+*.obj
